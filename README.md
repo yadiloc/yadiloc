@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋, I`m Yadina...
+I am a basic developer of web pages, I have used technologies such as Angular and Django using the django rest framework api for communication between them. My interest is to continue developing in this world that I am so passionate about, you can contact me through my email: yadinaromero@gmail.com
 <!--
 **yadiloc/yadiloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
